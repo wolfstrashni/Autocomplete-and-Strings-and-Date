@@ -14,3 +14,5 @@ Strings and Date object
 	var d = new Date();
 	var nd = d.addDays(8);
 	console.log(nd);
+
+2. Napravi auto-suggest funkcionalnost koja je vezana za neko tekst polje. Podatke koristiti iz proizvoljnog JSON fajla (rucno ubacite prozivoljne pojmove u fajl).
