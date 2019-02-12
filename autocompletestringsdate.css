@@ -21,7 +21,14 @@ input{
   border: 2px #e5e4e7 solid;
   border-radius: 5px;
 }
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
 .res{
  height: 30px;
  font-weight: 700;
 }
+#json-data{
+  display: none;
+}
+
