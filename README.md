@@ -3,7 +3,7 @@ Little exercise work
 
 
 
-Strings and Date object
+1. Strings and Date object
 
 -	Napraviti funkciju koja ispisuje prosledjeni string u "Reverznom" (preokrenuton redosledu)
 -	Napraviti funkciju koja ispisuje broj reci u prosledjenom stringu.
