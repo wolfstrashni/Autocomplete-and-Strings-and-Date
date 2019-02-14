@@ -2,6 +2,19 @@
 Little exercise work
 
 
+1. Strings and Date object
+
+-	Make function witch returns passed string in "Reversed" order
+-	Make function witch returns No. of words in passed string
+-	Expand Date class with addDays() method in a way that you could add arbitrary number of days to current date
+
+	Method calling exampe:
+	var d = new Date();
+	var nd = d.addDays(8);
+	console.log(nd);
+
+2. Make auto-suggest functionality that is related to a text field. Use data from random JSON file(input data at random manualy in a file)
+
 
 1. Strings and Date object
 
