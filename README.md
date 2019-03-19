@@ -16,6 +16,7 @@ Little exercise work
 2. Make auto-suggest functionality that is related to a text field. Use data from random JSON file(input data at random manualy in a file)
 
 
+Vezba:
 1. Strings and Date object
 
 -	Napraviti funkciju koja ispisuje prosledjeni string u "Reverznom" (preokrenuton redosledu)
